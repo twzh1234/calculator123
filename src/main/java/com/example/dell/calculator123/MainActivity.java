@@ -33,7 +33,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         zero = (Button) findViewById(R.id.bt_0);
         one = (Button) findViewById(R.id.bt_1);
         two = (Button) findViewById(R.id.bt_2);
-        three = (Button) findViewById(R.id.bt_3);
+        three = (Button) findViewById(R.id.bt_3);//
         four = (Button) findViewById(R.id.bt_4);
         five = (Button) findViewById(R.id.bt_5);
         six = (Button) findViewById(R.id.bt_6);
